@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+fontaneriainstalacionesmap.mydurable.com	TRUE	/	FALSE	1999999999	pt	NjUxZDY4MWQ1ODdiYjc2NGU5N2MyN2UxOjE2OTY0MjY3ODguNzg5OnByZXZpZXc%3D
+fontaneriainstalacionesmap.mydurable.com	TRUE	/	FALSE	1999999999	__cflb	02DiuH2r6T5i4sjob6PfyArX1T13RqXY5AJLPBLqhkCeY
+fontaneriainstalacionesmap.mydurable.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
